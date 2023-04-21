@@ -1,5 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import "../node_modules/bootstrap/scss/bootstrap";
+import {table, button, container, modal, modalbody, modalheader, formgroup, modalfooter} from 'reactstrap';
+import { Button } from 'reactstrap';
+
+class app extends
 
 function App() {
   return (
